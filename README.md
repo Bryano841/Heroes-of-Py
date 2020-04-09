@@ -1,6 +1,6 @@
 # Heroes-of-Py
 Data Analysis on a fantasy video game using Pandas.
-Project created as part of GWU Data Analytics course.
+
 
 
 # Objective
