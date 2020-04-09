@@ -1,9 +1,9 @@
 # Heroes-of-Py
 Data Analysis on a fantasy video game using Pandas.
 Project created as part of GWU Data Analytics course.
-Pandas, Python, Tableau
 
-Objective
+
+# Objective
 The objective of this project is to emulate the tasks of a Lead Analyst on an independent gaming company.
 
 The data provided contains demographic and purchasing information about the fictional game Heroes of Pymoli. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
@@ -99,7 +99,7 @@ Item Price
 
 Total Purchase Value
 
-Data Source
+# Data Source
 
 A JSON file was provided with demographic and purchasing information about Heroes of Pymoli video game.
 
@@ -128,11 +128,11 @@ Less than 10
 Greater than 40
 
 
-Most Popular Items DataFrame
+# Most Popular Items DataFrame
 
-To obtain the most popular items is required to group the records from heroes_df dataframe by Item ID, Item Name columns, create popitems_df dataframe including all required columns (with their proper calculation and formatting), and sort dataframe by Purchase Count column.
+To obtain the most popular items is required to group the records from purchase_data dataframe by Item ID, Item Name columns, create popitems_df dataframe including all required columns (with their proper calculation and formatting), and sort dataframe by Purchase Count column.
 
-To obtain the most popular items is required to group the records from heroes_df dataframe by Item ID, Item Name columns, create popitems_df dataframe including all required columns (with their proper calculation and formatting), and sort dataframe by Total Purchase Value column.
+To obtain the most popular items is required to group the records from purchase_data dataframe by Item ID, Item Name columns, create popitems_df dataframe including all required columns (with their proper calculation and formatting), and sort dataframe by Total Purchase Value column.
 
 
 
