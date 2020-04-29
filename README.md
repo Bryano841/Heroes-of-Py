@@ -14,9 +14,11 @@ Final report should include each of the following:
 
 Player Count
 
-Total Number of Players
+![image](https://user-images.githubusercontent.com/54809591/80610072-e551c680-8a06-11ea-999e-490e9b5cc91c.png)
 
 Purchasing Analysis (Total)
+
+![image](https://user-images.githubusercontent.com/54809591/80610244-1d590980-8a07-11ea-99e4-da94d9afa49f.png)
 
 Number of Unique Items
 
@@ -27,6 +29,8 @@ Total Number of Purchases
 Total Revenue
 
 Gender Demographics
+
+![image](https://user-images.githubusercontent.com/54809591/80610896-eafbdc00-8a07-11ea-8249-f370fd4bde88.png)
 
 Percentage and Count of Male Players
 
