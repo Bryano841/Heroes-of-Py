@@ -18,7 +18,7 @@ Player Count
 
 Purchasing Analysis (Total)
 
-![image](https://user-images.githubusercontent.com/54809591/80610244-1d590980-8a07-11ea-99e4-da94d9afa49f.png)
+
 
 Number of Unique Items
 
@@ -30,7 +30,7 @@ Total Revenue
 
 Gender Demographics
 
-![image](https://user-images.githubusercontent.com/54809591/80611027-141c6c80-8a08-11ea-85ce-77938613de4c.png)
+![image](https://user-images.githubusercontent.com/54809591/80613237-fef50d00-8a0a-11ea-85f8-7756a26af41a.png)
 
 Percentage and Count of Male Players
 
@@ -39,6 +39,8 @@ Percentage and Count of Female Players
 Percentage and Count of Other / Non-Disclosed
 
 Purchasing Analysis (Gender)
+
+![image](https://user-images.githubusercontent.com/54809591/80613017-b76e8100-8a0a-11ea-8173-6acf19d42628.png)
 
 The below each broken by gender
 
@@ -54,6 +56,8 @@ Normalized Totals
 Purchasing Analysis (Age)
 
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+
+![image](https://user-images.githubusercontent.com/54809591/80613316-1f24cc00-8a0b-11ea-80cf-50c333c97300.png)
 
 Purchase Count
 
