@@ -30,7 +30,7 @@ Total Revenue
 
 Gender Demographics
 
-![image](https://user-images.githubusercontent.com/54809591/80610896-eafbdc00-8a07-11ea-8249-f370fd4bde88.png)
+![image](https://user-images.githubusercontent.com/54809591/80611027-141c6c80-8a08-11ea-85ce-77938613de4c.png)
 
 Percentage and Count of Male Players
 
