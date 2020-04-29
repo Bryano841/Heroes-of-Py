@@ -55,9 +55,11 @@ Normalized Totals
 
 Purchasing Analysis (Age)
 
+![image](https://user-images.githubusercontent.com/54809591/80613316-1f24cc00-8a0b-11ea-80cf-50c333c97300.png)
+
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
-![image](https://user-images.githubusercontent.com/54809591/80613316-1f24cc00-8a0b-11ea-80cf-50c333c97300.png)
+![image](https://user-images.githubusercontent.com/54809591/80613574-7460dd80-8a0b-11ea-909b-c9f0f41f0ffd.png)
 
 Purchase Count
 
@@ -81,6 +83,8 @@ Total Purchase Value
 
 Most Popular Items
 
+![image](https://user-images.githubusercontent.com/54809591/80613863-c73a9500-8a0b-11ea-9909-4c6ebce6d7d4.png)
+
 Identify the 5 most popular items by purchase count, then list (in a table):
 
 Item ID
@@ -95,6 +99,8 @@ Total Purchase Value
 
 Most Profitable Items
 
+![image](https://user-images.githubusercontent.com/54809591/80614013-f0f3bc00-8a0b-11ea-9497-a3e2a66af9af.png)
+
 Identify the 5 most profitable items by total purchase value, then list (in a table):
 
 Item ID
@@ -106,6 +112,8 @@ Purchase Count
 Item Price
 
 Total Purchase Value
+
+![image](https://user-images.githubusercontent.com/54809591/80614114-0ff24e00-8a0c-11ea-8a4a-cd33b88d7ca3.png)
 
 # Data Source
 
